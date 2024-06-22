@@ -1125,5 +1125,3 @@ gm.__namecall = newcclosure( function(self, ...)
     end
 	return namecall(self, unpack(args))
 end)
-message.txt
-46 KB
